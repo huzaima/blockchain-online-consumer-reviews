@@ -1,0 +1,9 @@
+{
+  "address": "0xD1451Fc8191ceAF841C8e5B69E749FCB0BFcAb25",
+  "rpc_server": "HTTP://127.0.0.1:7545",
+  "ipfs": {
+    "host": "127.0.0.1",
+    "port": 5001,
+    "protocol": "http"
+  }
+}
